@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm Sage, a passionate developer who's diving into the wor
 - 🌱 **Learning Journey:** Expanding my skills in Flutter and Dart, and diving deeper into full-stack development.
 - 👯 **Looking to Collaborate On:** Projects that blend design and development, especially in mobile apps and web design.
 - 💬 **Ask Me About:** Flutter, Dart, graphic design, or anything tech-related!
-- 📫 **How to Reach Me:** [Your Email](mokorede009adelana@gmail.com) 
+- 📫 **How to Reach Me:** [mokorede009adelana@gmail.com]
 
 ## 💻 My Skills
 
